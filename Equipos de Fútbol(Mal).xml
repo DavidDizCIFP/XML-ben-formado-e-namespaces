@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos de futbol>
+	<equipo>
+		<nombre>Real Club Celta de Vigo</nombre>
+		<ciudad>Vigo</ciudad>
+		<entrenador>Carlos Carvahal</entrenador>
+		<jugador>
+			<jugador posicion="defensa">
+				<nombre>Hugo Mallo</nombre>
+				<nacionalidad>Española</nacionalidad>
+			</jugador>
+			<jugador posicion="delantero">
+				<nombre>Iago Aspas</nombre>
+				<nacionalidad>Española</nacionalidad>
+			</jugador>
+		</jugadores>
+	</equipo>
+	<equipo>
+		<nombre>Real Club Deportivo de La Coruña</nombre>
+		<ciudad>Coruña</ciudad>
+		<entrenador>Óscar Cano</entrenador>
+		<jugadores>
+			<jugador posicion="portero">
+				<nombre>Ian Mackay</nombre>
+				<nacionalidad>Española</nacionalidad>
+			</jugador>
+			<jugador posicion="centrocampista">
+				<nombre>Alex Bregantiños</nombre>
+				<nacionalidad>Española</nacionalidad>
+			</jugador>
+		</jugadores>
+	</equipo>
+</equipos de futbol>
